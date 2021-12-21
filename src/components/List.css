@@ -1,0 +1,25 @@
+.list{
+    background-color: turquoise;
+    color: #444;
+    padding: 24px 34px;
+    margin: 14px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 5px;
+
+}
+
+.del button{
+    padding: 8px 24px;
+    border-radius: 5px;
+    border: none;
+    background-color: crimson;
+    color: white;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+.task h3{
+    text-transform: capitalize;
+}

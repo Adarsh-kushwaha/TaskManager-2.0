@@ -1,0 +1,11 @@
+
+.header{
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+    grid-template-rows: 1fr;
+    background-color: crimson;
+    padding: 24px 24px;
+    color: white;
+    margin: 34px 0;
+    
+}
