@@ -10,3 +10,12 @@ body{
   font-family: Poppins;
   background-color: rgb(15, 32, 32);
 }
+
+@media  screen and (max-width:720px) {
+
+  body{
+    max-width: 95%;
+    margin: auto;
+  }
+  
+}
